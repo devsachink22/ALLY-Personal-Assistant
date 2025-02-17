@@ -1,2 +1,2 @@
 # ALLY-Personal-Assistant-
-It is a voice recognition system which works like Siri, Google Assistant, Alexa etc.
+A voice recognition model that works like a Siri, Google Assistant, Alexa and many more.
